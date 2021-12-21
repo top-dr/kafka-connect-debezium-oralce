@@ -1,0 +1,1 @@
+https://download.oracle.com/otn_software/linux/instantclient/1913000/instantclient-basic-linux.x64-19.13.0.0.0dbru-2.zip
